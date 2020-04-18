@@ -1,0 +1,14 @@
+{
+  "name": "buccaneer",
+  "version": "1.0.0",
+  "description": "A Discord bot written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "author": "Stipendi",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.12.0"
+  }
+}
